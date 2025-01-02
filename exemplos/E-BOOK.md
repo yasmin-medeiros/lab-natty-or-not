@@ -1,7 +1,7 @@
 # A importância da Matemática para o mundo 🚀
 
 ## 📒 Descrição
-Este e-book de 5 páginas explora a importância da Matemática para o mundo.
+Este e-book de 7 páginas explora a importância da Matemática para o mundo.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
