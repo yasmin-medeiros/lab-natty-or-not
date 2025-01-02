@@ -13,7 +13,7 @@ Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas na import
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento para a apresentação de diferentes conteúdos.
 
-**[LINK PARA O E-BOOK AQUI](file:///C:/Users/yasmi/Downloads/E-book-A%20import%C3%A2ncia%20da%20Matem%C3%A1tica%20para%20o%20mundo.pdf)**
+**[LINK PARA O E-BOOK AQUI](https://docs.google.com/document/d/1l5JDj6O2EMJSroEIc9sThdgs2TdcfuHMhVjTwNDZFsk/edit?usp=sharing)**
 
 ## 💭 Reflexão
 Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
