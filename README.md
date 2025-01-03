@@ -1,5 +1,5 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
+# Resolução de Projeto da DIO 
 ## 🚀 Introdução
 
 > Woooow! Look at this 👀
